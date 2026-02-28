@@ -1,0 +1,8 @@
+ Using Query Parameter
+GET http://127.0.0.1:8000/jobs?api_key=hss823hds823hwdw
+
+Using Header
+GET /jobs HTTP/1.1
+Host: 127.0.0.1:8000
+Authorization: hss823hds823hwdw
+
